@@ -1,0 +1,26 @@
+[
+  {
+    "id": "lesson01",
+    "title": "Understanding Afro House Groove",
+    "description": "Learn how to layer percussion, rhythm, and atmosphere to build the signature Afro House sound.",
+    "thumbnail": "assets/images/lesson01.jpg",
+    "videoUrl": "https://www.youtube.com/embed/YOUR_LESSON_VIDEO_ID",
+    "level": "Beginner"
+  },
+  {
+    "id": "lesson02",
+    "title": "Mixing & EQ Tips for DJs",
+    "description": "Master smooth transitions and use EQ like a pro to create balanced and energetic sets.",
+    "thumbnail": "assets/images/lesson02.jpg",
+    "videoUrl": "https://www.youtube.com/embed/YOUR_LESSON_VIDEO_ID_2",
+    "level": "Intermediate"
+  },
+  {
+    "id": "lesson03",
+    "title": "How to Record a Studio Mix",
+    "description": "Step-by-step process to record your mix for YouTube, Mixcloud, or SoundCloud in high quality.",
+    "thumbnail": "assets/images/lesson03.jpg",
+    "videoUrl": "",
+    "level": "All Levels"
+  }
+]

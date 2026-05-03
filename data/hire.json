@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Live DJ Set for Events & Nightclubs",
+    "price": "RSVP for rates / per hour",
+    "description": "Ideal for nightclubs, brand activations, or private events. Expect a seamless Afro-Tech and Deep House experience tailored to your crowd.",
+    "features": [
+      "Up to 1-hour live performance",
+      "Professional Pioneer XDJ setup",
+      "Transport within Gauteng included",
+      "Basic lighting and sound check"
+    ],
+    "image": "assets/images/dj-gig.png"
+  },
+  {
+    "id": 2,
+    "title": "XDJ-RX3 Equipment Hire",
+    "price": "R1500 / day + R1000 refundable insurance",
+    "description": "Hire the Pioneer XDJ-RX3 standalone DJ controller — ideal for events, studio sessions, or content shoots. Includes setup assistance, protective case, and a refundable R1000 insurance fee in case of damage or loss.",
+    "features": [
+      "Full-day rental (24 hours)",
+      "Professional Pioneer XDJ-RX3 unit",
+      "Setup & basic orientation included",
+      "Protective flight case & power cables",
+      "R1000 insurance deposit (refunded if equipment is returned safely)"
+    ],
+    "image": "assets/images/xdjrx3.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Filming + DJ Recording Session",
+    "price": "R1500/ session",
+    "description": "Record your DJ set in HD with professional camera angles and studio sound. Ideal for YouTube / TikTok / Instagram promo.",
+    "features": [
+      "1-hour recording session",
+      "Professional video shoot",
+      "Basic color grading & editing",
+      "Delivered within 3–5 days"
+    ],
+    "image": "assets/images/filming-session.png"
+  }
+]
